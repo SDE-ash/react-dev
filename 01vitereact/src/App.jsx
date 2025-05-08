@@ -1,8 +1,10 @@
 
+import Chai from "./chai.jsx";
+
 function App() {
 
   return (
-   <h1>VITE REACT DEVELOPMENT</h1>
+   <Chai/>
   )
 }
 
